@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 200" width="100%" height="100%">
+  <!-- Circular container background -->
+  <circle cx="100" cy="100" r="95" fill="#FAF9F5" stroke="#E6D2B3" stroke-width="3" />
+  
+  <!-- Golden Yellow Semi-Sun at Top -->
+  <path d="M 75 52 A 25 25 0 0 1 125 52 Z" fill="#F7B638" />
+
+  <!-- Warm Sand Beige Chamomile Petals fanning downwards -->
+  <!-- Far Left Petal (approx -45 deg) -->
+  <path d="M 97 53 C 94 65, 54 68, 56 82 C 58 92, 70 94, 76 86 C 84 76, 98 56, 98 53 Z" fill="#E6D2B3" />
+  <!-- Mid Left Petal (approx -20 deg) -->
+  <path d="M 98 53 C 92 68, 70 82, 73 98 C 75 108, 87 110, 93 100 C 99 87, 99 56, 99 53 Z" fill="#E6D2B3" />
+  <!-- Center Petal (pointing straight down) -->
+  <path d="M 97 53 C 94 72, 91 95, 93 108 C 95 116, 105 116, 107 108 C 109 95, 106 72, 103 53 Z" fill="#E6D2B3" />
+  <!-- Mid Right Petal (approx +20 deg) -->
+  <path d="M 102 53 C 108 68, 130 82, 127 98 C 125 108, 113 110, 107 100 C 101 87, 101 56, 101 53 Z" fill="#E6D2B3" />
+  <!-- Far Right Petal (approx +45 deg) -->
+  <path d="M 103 53 C 106 65, 146 68, 144 82 C 142 92, 130 94, 124 86 C 116 76, 102 56, 102 53 Z" fill="#E6D2B3" />
+
+  <!-- Botanical Teal Blue Leaves at Bottom -->
+  <!-- Left Leaf -->
+  <path d="M 96 170 C 70 168, 32 145, 32 108 C 55 108, 88 126, 96 170 Z" fill="#398DA5" />
+  <!-- Right Leaf -->
+  <path d="M 104 170 C 130 168, 168 145, 168 108 C 145 108, 112 126, 104 170 Z" fill="#398DA5" />
+</svg>
